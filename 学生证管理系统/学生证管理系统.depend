@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555573469 source:d:\demo\学生证管理系统c课程设计\学生证管理系统111\学生证管理系统\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
